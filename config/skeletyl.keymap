@@ -67,7 +67,7 @@
 
         apostrophe {
             bindings = <&kp SQT>;
-            key-positions = <28 29>;
+            key-positions = <10 11>;
             timeout-ms = <20>;
         };
 
@@ -79,13 +79,13 @@
 
         minus {
             bindings = <&kp MINUS>;
-            key-positions = <26 27>;
+            key-positions = <13 14>;
             timeout-ms = <20>;
         };
 
         underscore {
             bindings = <&kp UNDERSCORE>;
-            key-positions = <27 28>;
+            key-positions = <12 13>;
             timeout-ms = <20>;
         };
 
@@ -103,7 +103,12 @@
 
         grave {
             bindings = <&kp GRAVE>;
-            key-positions = <20 21>;
+            key-positions = <26 27>;
+        };
+
+        tlide {
+            bindings = <&kp TILDE>;
+            key-positions = <28 27>;
         };
     };
 
