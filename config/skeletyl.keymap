@@ -79,13 +79,13 @@
 
         minus {
             bindings = <&kp MINUS>;
-            key-positions = <13 14>;
+            key-positions = <13 12>;
             timeout-ms = <20>;
         };
 
         underscore {
             bindings = <&kp UNDERSCORE>;
-            key-positions = <12 13>;
+            key-positions = <12 11>;
             timeout-ms = <20>;
         };
 
