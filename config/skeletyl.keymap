@@ -91,13 +91,13 @@
 
         pipe {
             bindings = <&kp PIPE>;
-            key-positions = <22 23>;
+            key-positions = <22 21>;
             timeout-ms = <20>;
         };
 
         backsplash {
             bindings = <&kp NON_US_BACKSLASH>;
-            key-positions = <21 22>;
+            key-positions = <22 23>;
             timeout-ms = <20>;
         };
 
